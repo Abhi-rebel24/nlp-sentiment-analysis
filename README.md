@@ -21,7 +21,10 @@ This project performs sentiment analysis on Amazon food reviews using traditiona
 - Model Comparison using Pairplots
 
 ## Dataset
-Amazon Fine Food Reviews Dataset
+Amazon Fine Food Reviews Dataset was used for this project.
+
+Dataset Source:
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ## Screenshots
 
