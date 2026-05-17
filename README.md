@@ -31,7 +31,7 @@ Amazon Fine Food Reviews Dataset
 
 Overview of the NLP sentiment analysis project along with exploratory data analysis on Amazon food reviews.
 
-![Project Introduction and EDA] ![alt text](images/intro-eda.jpeg)
+![Project Introduction and EDA] ![alt text](intro-eda.jpeg)
 ---
 
 
@@ -39,7 +39,7 @@ Overview of the NLP sentiment analysis project along with exploratory data analy
 
 Visualization of positive, neutral and negative sentiment scores generated using the VADER sentiment analyzer.
 
-![VADER Sentiment Distribution] ![alt text](images/VADAR-sentiment-distribution.jpeg)
+![VADER Sentiment Distribution] ![alt text](vader-sentiment-distribution.jpeg)
 
 ---
 
@@ -47,7 +47,7 @@ Visualization of positive, neutral and negative sentiment scores generated using
 
 Implementation of the RoBERTa transformer-based deep learning model for advanced sentiment analysis using Hugging Face Transformers.
 
-![RoBERTa Transformer Model] ![alt text](images/roberta-transformer.jpeg)
+![RoBERTa Transformer Model] ![alt text](roberta-transformer.jpeg)
 
 ---
 
@@ -55,7 +55,7 @@ Implementation of the RoBERTa transformer-based deep learning model for advanced
 
 Pairplot visualization comparing sentiment score relationships between traditional NLP (VADER) and transformer-based NLP (RoBERTa).
 
-![Comparison Between Models](images/Comparison.png)
+![Comparison Between Models](Comparison.png)
 
 ---
 
@@ -63,6 +63,6 @@ Pairplot visualization comparing sentiment score relationships between tradition
 
 Demonstration of Hugging Face transformers pipeline for sentiment prediction along with final project conclusions.
 
-![Pipeline and Conclusion]![alt text](images/Pipeline-Conclusion.jpeg)
+![Pipeline and Conclusion]![alt text](Pipeline-Conclusion.jpeg)
 
 # THE END
